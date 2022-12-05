@@ -4,7 +4,7 @@ metadata:
   labels:
     app: web
   name: web
-  namespace: default
+  namespace: example
 spec:
   selector:
     app: web
